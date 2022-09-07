@@ -1,0 +1,202 @@
+{
+  "main": {
+    "purl" : "https://mcrhky.github.io/resume/",
+    "name": "Mervyn",
+    "occupation": "Architect",
+    "privacynote" : "For privacy concerns, personal details such as contact number will not be shown here.",
+    "shortdescription" : "Paperless resume of a coder/developer/programmer.",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "ppx.PNG",
+    "bio": "Dedicated, smart, fast learner, capable of picking up a new programming language within a week. In a team, I am always happy to be a team player or take on the role as a leader. I prefer holding greater responsibilities with consideration of the environment and psychological health of the team. In a working environment, I work better in an open non-clustered workspace or in a room with a group or alone. As for working locations, I am able to work overseas though I prefer to work remotely from the comfort of my own home. Socialising with clients is not an issue for me as I have much experience in doing so, and this includes requirement gathering, analysing, designing, and developing solutions to problems, all in the result of translating requirements into functional programming.",
+    "contactmessage": "Write up an email and send it my way.",
+    "email": "mervynhky@gmail.com",
+    "phone": "01xxxxxxxx",
+    "address": {
+      "street": "Kelana Jaya",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "zip": "47301",
+      "country": "Malaysia"
+    },
+    "website": "http://www.google.com",
+    "resumedownload": "http://google.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Skills to show the proficiency I have in each commonly used language",
+    "education": [
+      {
+        "school": "Asia Pacific University",
+        "degree": "Bachelor's Degree in Network Computing",
+        "graduated": "March 2015",
+        "description": "Completed the final year project by identifying an issue with the university's slow network traffic due to excess usage of students. Designed and developed a solution that controls bandwidth quota per student to improve network traffic."
+      },
+      {
+        "school": "SMK Damansara Jaya",
+        "degree": "SPM",
+        "graduated": "December 2009",
+        "description": "Graduated from high school."
+      }
+    ],
+    "work": [
+      {
+        "company": "FCS International Sdn Bhd",
+        "title": "Senior Software Architect",
+        "years": "September 2021 - Present",
+        "description": "Designed and developed image verification and electronic document management web application systems on front-end, back-end, database, middleware, implementation, and deployment level on Windows and Linux cloud servers. Leading development team to realize future plans for the company."
+      },
+      {
+        "company": "Innity Sdn Bhd",
+        "title": "Senior Software Engineer",
+        "years": "November 2018 - September 2021",
+        "description": "Started as a GOLANG developer and designed RTB Systems. Later transferred to handle advertising platform with specialism in PHP ZenFramework while translation requirements of to functional microservices and later on in PHP (Laravel) systems."
+      },
+      {
+        "company": "Hibiscus Tech Consulting Sdn Bhd",
+        "title": "Chief Systems Architect",
+        "years": "July 2020 - Present",
+        "description": "Part time work as a systems architect aimed to analyze and study the needs of clients, transforming requirements to meaningful information to design and develop the system to be implemented. Leading teams and managing projects while balancing time and work of main job. Notable projects are confidential."
+      },
+      {
+        "company": "DuoZuo Sdn Bhd",
+        "title": "Infrastructure Architect",
+        "years": "January 2019 - January 2020",
+        "description": "Part time work as an infrastructure architect aimed to study and understand the business flow and propose solutions that improve efficiency to clients. Leading teams and managing projects while balancing time and work of main job. Notable projects are confidential."
+      },
+      {
+        "company": "HT Consulting Sdn Bhd",
+        "title": "Software Developer",
+        "years": "March 2015 - October 2018",
+        "description": "Specialising in Java (Hibernate) to design, develop, improve electronic document managing system and hospital information system. Leading and managing a team of developers for projects in Penang and KL. Designed and developed monitoring system for bank kiosks (Cash and Cheque Deposit Machines)."
+      },
+      {
+        "company": "Freelance Web Developer",
+        "title": "Freelancer",
+        "years": "January 2016 - PRESENT",
+        "description": "Designing and creating websites that delivers meaning to improve business revenues."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "GO",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "VueJs",
+        "level": "70%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
+      },
+      {
+        "name": ".NET",
+        "level": "55%"
+      },
+      {
+        "name": "Ruby on Rails",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Tailwind",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ],
+    "languagemessage" : "Proficiency in my communication language",
+    "languages": [
+      {
+        "name": "English",
+        "written": "5",
+        "spoken": "5"
+      },
+      {
+        "name": "Malaysian",
+        "written": "5",
+        "spoken": "5"
+      },
+      {
+        "name": "Cantonese",
+        "written": "0",
+        "spoken": "5"
+      }
+    ]
+  },
+  "waifu": {
+    "deets": [
+      {
+        "title": "Work",
+        "description": "Want to hire me to be a part of your team? Need to get a project done? Sync with me.",
+        "image": "ANIME5.png"
+      },
+      {
+        "title": "Support",
+        "description": "Seek for professional advise. I will personally consult you and fix your issues.",
+        "image": "ANIME2.png"
+      },
+      {
+        "title": "Training",
+        "description": "Training needed? Need a stand-in lecturer? Private tutoring required? Hit me up!",
+        "image": "ANIME3.png"
+      },
+      {
+        "title": "Chit Chat",
+        "description": "Always welcomed to have a friendly chat. Please refrain from spamming my inbox.",
+        "image": "ANIME6.png"
+      }
+    ]
+  }
+}
